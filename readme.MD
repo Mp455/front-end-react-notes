@@ -2,6 +2,8 @@
 
 Projeto básico no qual você consegue adicionar notas e listar tags e links de tarefas importantes que deseja salvar.
 
+Clique aqui para visualizar o site: https://reactnotas.netlify.app/
+
 ## Referência
 
 - [Trilha Explorer rocketseat](https://www.rocketseat.com.br/)
